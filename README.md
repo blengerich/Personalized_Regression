@@ -2,7 +2,9 @@
 
 Code repository for the paper ["Personalized Regression Enables Sample-Specific Pan-Cancer Analysis."](https://academic.oup.com/bioinformatics/article/34/13/i178/5045771).
 
-The goal of *Personalized Regression* is to perform retrospective analysis by estimating simple models that each apply to a single sample. After estimating these sample-specific models, we have a matrix of model parameters which we may analyze as we wish. In this paper, we analyzed logistic regression models trained on a set of transcriptomic profiles of cancer patients. From these data, we were able to identify several patterns which are overlooked by traditional analyses. For more information about these experiments, please see the [slides for our ISMB 2018 presentation](//www.cs.cmu.edu/~blengeri/downloads/personalized_regression_ismb_2018.pdf).
+The goal of *Personalized Regression* is to perform retrospective analysis by estimating simple models that each apply to a single sample. After estimating these sample-specific models, we have a matrix of model parameters which we may analyze as we wish. In this paper, we analyzed logistic regression models trained on a set of transcriptomic profiles of cancer patients. From these data, we were able to identify several patterns which are overlooked by traditional analyses. For more information about these experiments, please see the [slides for our ISMB 2018 presentation](//www.cs.cmu.edu/~blengeri/downloads/slides/personalized_regression_ismb_2018.pdf).
+
+[An updated version of the slides](https://www.cs.cmu.edu/~blengeri/downloads/slides/personalized_regression_psu.pdf), with more experiments, are also available.
 
 # Using this code
 
