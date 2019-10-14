@@ -2,6 +2,8 @@
 
 The goal of *Personalized Regression* is to push the limits of machine learning for heterogeneous samples. Instead of assuming that a single model is appropriate for all samples, we go to the other extreme and fit different model parameters for each samples. At this extreme, we are required to devise ways to share statistical power between models. After estimating these sample-specific models, we have a matrix of model parameters which we may analyze.
 
+![Personalized Regression Example](https://github.com/blengerich/Personalized_Regression/blob/master/personalized_regression_figure1.png)
+
 
 # Using this code
 
