@@ -11,7 +11,7 @@ This repository includes code for both personalized logistic and personalized li
 
 
 ## NeurIPS 2019 Paper
-The most recent paper on this project is our 2019 NeurIPS ["Learning Sample-Specific Models with Low-Rank Personalized Regression"](). A snapshot of code relating to that paper is available at: [github.com/blengerich/Personalized_Regression_NeurIPS19](https://github.com/blengerich/Personalized_Regression_NeurIPS19).
+The most recent paper on this project is our 2019 NeurIPS Paper: ["Learning Sample-Specific Models with Low-Rank Personalized Regression"](http://papers.nips.cc/paper/8616-learning-sample-specific-models-with-low-rank-personalized-regression). A snapshot of code relating to that paper is available at: [github.com/blengerich/Personalized_Regression_NeurIPS19](https://github.com/blengerich/Personalized_Regression_NeurIPS19).
 
 
 ## ISMB 2018 Paper
